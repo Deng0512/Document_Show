@@ -35,6 +35,8 @@ eg：/*!
  @version 1.00 2016/12/19 Creation
  */
  
+ 
+ 
  2，class，类信息。此注释用在类声明的开头。
  
  eg：/*!
@@ -42,12 +44,16 @@ eg：/*!
  @abstract 首页，控制显示ui
  */
  
+ 
+ 
  3，property， property的注释书写。
 
 eg：/*!
  @property
  @abstract 左边标题选择tableview控件
  */
+ 
+ 
  
  4，method: 函数的相关注释。
  
@@ -59,6 +65,8 @@ eg：/*!
  @param indexPath 选中列
  */
  
+ 
+ 
  5，property， property的注释书写。
 
 eg：/*!
@@ -66,5 +74,7 @@ eg：/*!
  @abstract 协议类
  @discussion 议具体描述信息
  */
+ 
+ 
  
  ......注释方法还有很多，具体请查看官方api文档。以上描述注释均来自dema里边供参考。
